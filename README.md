@@ -167,4 +167,21 @@ Used PivotTables to demonstrate:
 
 ---
 
-## 📁 Project Structure
+## 🎯 Key Learnings
+
+- Data warehouse design & dimensional modeling  
+- ETL pipeline development  
+- Data cleaning & validation  
+- OLAP cube development  
+- Dashboarding with Power BI  
+
+---
+
+## 👩‍💻 Author
+
+**Navodi Senevirathne**  
+Data Science Undergraduate | Aspiring Data Analyst  
+
+---
+
+## ⭐ If you like this project, feel free to star the repo!
